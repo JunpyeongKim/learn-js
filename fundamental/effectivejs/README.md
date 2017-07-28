@@ -1,0 +1,2 @@
+# Effective JavaScript
+- David Herman
